@@ -1,0 +1,6 @@
+{
+    "require": {
+        "amphp/http-server": "^2.1",
+        "amphp/http-server-router": "^1.0"
+    }
+}
